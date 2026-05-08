@@ -33,11 +33,16 @@ I'm a Software Engineer passionate about building things across the stack — fr
 | [Egg-Timer](https://github.com/Bektur13/Egg-Timer) | iOS timer app with clean UI | Swift |
 
 ---
-
+Languages: Java, Python, JavaScript, TypeScript, GraphQL, SQL, Swift, HTML5, CSS3
+Frameworks: SpringBoot, React.js, Next.js, Node.js, Nest.js, GraphQL (Apollo Client), Redux, Tailwind CSS
+Databases: PostgreSQL, MySQL, Redis, Prisma ORM
+Tools: Docker, Webpack, Git/GitHub, CI/CD, Postman, Agile
 ## 🛠️ Tech Stack
+## Languages
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3178C6?style=flat&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
@@ -47,5 +52,3 @@ I'm a Software Engineer passionate about building things across the stack — fr
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN-HERE)
-
-> 💼 Open to internship opportunities — feel free to reach out!
