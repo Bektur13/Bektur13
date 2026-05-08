@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **Bektur13/Bektur13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,11 +15,10 @@ Here are some ideas to get you started:
 -->
 # Hi, I'm Bektur 👋
 
-I'm a computer science student passionate about building things across the stack — from iOS apps to backend servers to AI-powered tools. I enjoy working close to the metal (like building HTTP servers from scratch) as much as I enjoy shipping polished user-facing products.
+I'm a Software Engineer passionate about building things across the stack — from iOS apps to backend servers to AI-powered tools. I enjoy working close to the metal (like building HTTP servers from scratch) as much as I enjoy shipping polished user-facing products.
 
-🔭 Currently looking for a **Software Engineering Internship**  
-🌱 Working with **TypeScript, Java, Swift**  
-📍 Based in the US  
+
+📍 Seattle, WA
 
 ---
 
