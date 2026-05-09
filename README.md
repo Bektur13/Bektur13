@@ -21,22 +21,6 @@ I'm a Software Engineer passionate about building things across the stack — fr
 📍 Seattle, WA
 
 ---
-
-## 🚀 Featured Projects
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| [AI-Chatbot](https://github.com/Bektur13/AI-Chatbot) | AI-powered chat application with real-time streaming responses | TypeScript, React |
-| [Streamify](https://github.com/Bektur13/Streamify) | Streaming server built from the ground up | TypeScript, Node.js |
-| [HTTP-Server](https://github.com/Bektur13/HTTP-Server) | HTTP/1.1 server implemented from scratch in Java | Java |
-| [Xylophone](https://github.com/Bektur13/Xylophone) | iOS music app using AVFoundation | Swift |
-| [Egg-Timer](https://github.com/Bektur13/Egg-Timer) | iOS timer app with clean UI | Swift |
-
----
-Languages: Java, Python, JavaScript, TypeScript, GraphQL, SQL, Swift, HTML5, CSS3
-Frameworks: SpringBoot, React.js, Next.js, Node.js, Nest.js, GraphQL (Apollo Client), Redux, Tailwind CSS
-Databases: PostgreSQL, MySQL, Redis, Prisma ORM
-Tools: Docker, Webpack, Git/GitHub, CI/CD, Postman, Agile
 ## 🛠️ Tech Stack
 ## Languages
 
@@ -70,6 +54,18 @@ Tools: Docker, Webpack, Git/GitHub, CI/CD, Postman, Agile
 ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/-CI%2FCD-3DDC84?logo=github-actions&logoColor=white&style=for-the-badge)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| [AI-Chatbot](https://github.com/Bektur13/AI-Chatbot) | AI-powered chat application with real-time streaming responses | TypeScript, React |
+| [Streamify](https://github.com/Bektur13/Streamify) | Streaming server built from the ground up | TypeScript, Node.js |
+| [HTTP-Server](https://github.com/Bektur13/HTTP-Server) | HTTP/1.1 server implemented from scratch in Java | Java |
+| [Xylophone](https://github.com/Bektur13/Xylophone) | iOS music app using AVFoundation | Swift |
+| [Egg-Timer](https://github.com/Bektur13/Egg-Timer) | iOS timer app with clean UI | Swift |
 
 ---
 
