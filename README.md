@@ -13,12 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi, I'm Bektur 👋
+# Hi!
 
-I'm a Software Engineer passionate about building things across the stack — from iOS apps to backend servers to AI-powered tools. I enjoy working close to the metal (like building HTTP servers from scratch) as much as I enjoy shipping polished user-facing products.
-
-
-📍 Seattle, WA
+I'm a Software Engineer passionate about building AI tools, servers & Full Stack apps. I enjoy shipping polished user-facing products.
 
 ---
 ## 🛠️ Tech Stack
@@ -56,7 +53,7 @@ I'm a Software Engineer passionate about building things across the stack — fr
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 
 ---
-
+<!--
 ## 🚀 Featured Projects
 
 | Project | Description | Tech |
@@ -68,7 +65,7 @@ I'm a Software Engineer passionate about building things across the stack — fr
 | [Egg-Timer](https://github.com/Bektur13/Egg-Timer) | iOS timer app with clean UI | Swift |
 
 ---
-
+-->
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN-HERE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bektur-duishembekov)
